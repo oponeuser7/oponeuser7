@@ -1,4 +1,4 @@
-👋 Hi, I’m Yongu Nam
+👋 Hi, I’m Yongwoo Nam
 
 📫 How to reach me => oponeuser7@gmail.com
 
