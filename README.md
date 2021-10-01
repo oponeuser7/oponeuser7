@@ -14,7 +14,3 @@ I'm into mathematics and algrithms like stuff. I enjoy defining somthing.
 
 
 <img src="https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=black"/>  <img src="https://img.shields.io/badge/Flutter-1ccfd7?style=flat-square&logo=Flutter&logoColor=white"/>
-<!---
-oponeuser7/oponeuser7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---
