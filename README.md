@@ -6,9 +6,6 @@
 I'm into mathematics and algrithms like stuff. I enjoy defining somthing.
 
 
-📫 How to reach me => oponeuser7@o.cnu.ac.kr
-
-
 ## Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/Java-CC342D?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
