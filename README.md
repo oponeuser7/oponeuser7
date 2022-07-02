@@ -2,5 +2,5 @@
 <ul>
   <li>Hi, I’m Yongwoo Nam :smile:</li>
   <li>I define my self as a <strong>full-stack developer</strong>. I love <em>simplicity.</em></li>
-  <li>I love to think in simpler way and make complex things way simpler.</li>
+  <li>I love to think in simpler way and to make complex things way simpler.</li>
 </ul>
